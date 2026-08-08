@@ -5,7 +5,7 @@
   <img src="https://www.gitskins.com/api/section/hero?username=kumarsahup07&theme=github-dark" alt="kumarsahup07 hero" />
 </picture>
 
-### B.Tech student building ML &amp;
+### B.Tech student
 
 </div>
 
