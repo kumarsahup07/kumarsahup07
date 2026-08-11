@@ -55,14 +55,7 @@ I'm a Computer Science student at KIIT, Bhubaneswar, working at the intersection
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
-**Notes and PDF**
-<br>
 
-[![KIIT Notes](https://img.shields.io/badge/KIIT-Notes-blue?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/19qwQZPYMYYruseztwnGxzYKXl1zECEyv?usp=sharing)
-
-[![SQL Notes](https://img.shields.io/badge/SQL-Notes-orange?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1g31tRUYjJZ_s53ZexiU8PPu_BgHrRbIu?usp=drive_link)
-
-[![Python Notes](https://img.shields.io/badge/Python-Notes-black?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/Python-20c98bce9f7d80d5acfcc8580175cda4?source=copy_link)
 
 </div>
 
@@ -105,4 +98,12 @@ I'm a Computer Science student at KIIT, Bhubaneswar, working at the intersection
 </picture>
 </div>
 
+## **Notes and PDF**
+<br>
+
+[![KIIT Notes](https://img.shields.io/badge/KIIT-Notes-blue?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/19qwQZPYMYYruseztwnGxzYKXl1zECEyv?usp=sharing)
+
+[![SQL Notes](https://img.shields.io/badge/SQL-Notes-orange?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1g31tRUYjJZ_s53ZexiU8PPu_BgHrRbIu?usp=drive_link)
+
+[![Python Notes](https://img.shields.io/badge/Python-Notes-black?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/Python-20c98bce9f7d80d5acfcc8580175cda4?source=copy_link)
 <!-- Sections: Header, About, Skills, GitHub Stats, Featured Projects, Connect -->
